@@ -11,5 +11,6 @@ Un blog increiblemente hecho para el [curso de Git y GitHub](https://platzi.com/
 - Interactuar con el GitHub y Git al mismo tiempo
 - Querer practicar muchos con los comandos de Pull y Push
 - El secreto del exito es conocer los errores de la programacion.
+- Incluye ejemplos de los sistemas operativos de Windows, Linux y Mac.
 
 Para cerrar con esto. El **readme es mi examen** y estoy aprendiendo a como editarlo para hacer cool mi repositorio. Si quieres aprender como hacerlo y mas cosas como retos ve a la [**pagina**](https://platzi.com/cursos/git-github/ "pagina").
